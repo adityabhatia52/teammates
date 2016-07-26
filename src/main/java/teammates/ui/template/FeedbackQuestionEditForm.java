@@ -153,9 +153,6 @@ public class FeedbackQuestionEditForm {
         this.questionIndex = questionIndex;
     }
 
-    /**
-     * @see {@link #getQuestionIndexIfNonZero}
-     */
     public int getQuestionIndex() {
         return questionIndex;
     }
